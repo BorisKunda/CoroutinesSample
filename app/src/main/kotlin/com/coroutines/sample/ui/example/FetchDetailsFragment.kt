@@ -29,7 +29,7 @@ class FetchDetailsFragment : DataBindingFragment<FragmentFetchDetailsBinding>() 
 //        vm.tryAsyncNetworkCall()
 //        vm.tryExceptionHandler()
 //        vm.trySupervisorScope()
-        vm.tryAdvancedSupervisorScope()
+        //vm.tryAdvancedSupervisorScope()
     }
 
     private fun initObservers() {
